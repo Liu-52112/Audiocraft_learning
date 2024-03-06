@@ -55,31 +55,21 @@ for idx, one_wav in enumerate(wav):
 
 ### Result
 
+[lowlowlowlow low low](https://github.com/Liu-52112/Audiocraft_learning/blob/main/0_1.wav)
+
+[energetic EDM](https://github.com/Liu-52112/Audiocraft_learning/blob/main/1_1.wav)
+
+[sad jazz](https://github.com/Liu-52112/Audiocraft_learning/blob/main/2_1.wav)
 
 
-<audio src="0_1.wav"></audio>
+[Blue Blue Blue](https://github.com/Liu-52112/Audiocraft_learning/blob/main/3_1.wav)
 
-lowlowlowlow low low 
 
-<audio src="1_1.wav"></audio>
+[a bird](https://github.com/Liu-52112/Audiocraft_learning/blob/main/4_1.wav)
 
-energetic EDM
 
-<audio src="2_1.wav"></audio>
+[a b c d e f g ](https://github.com/Liu-52112/Audiocraft_learning/blob/main/5_1.wav)
 
-sad jazz
-
-<audio src="3_1.wav"></audio>
-
-Blue Blue Blue
-
-<audio src="4_1.wav"></audio>
-
-a bird
-
-<audio src="5_1.wav"></audio>
-
-a b c d e f g 
 
 
 
